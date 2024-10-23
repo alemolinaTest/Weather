@@ -1,2 +1,2 @@
-# Wheather
+# Weather
 Kotlin Jetpack Composable MVVM Clean Architecture
