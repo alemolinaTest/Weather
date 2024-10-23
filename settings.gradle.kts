@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Wheather"
 include(":app")
+include(":app")
  
